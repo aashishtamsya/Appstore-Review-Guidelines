@@ -8,6 +8,8 @@
 build/
 DerivedData/
 
+*.json
+
 ## Various settings
 *.pbxuser
 !default.pbxuser
