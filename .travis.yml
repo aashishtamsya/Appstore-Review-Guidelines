@@ -1,3 +1,4 @@
 language: ruby
+sudo: required
 rvm:
     - 2.0.0-p247
