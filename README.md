@@ -5,7 +5,7 @@ Created by Aashish Tamsya on 01/09/16.
 Copyright © 2016 Aashish Tamsya. All rights reserved.
 -->
 
-[![Platform](https://img.shields.io/badge/platform-ios-lightgrey.svg)]()
+[![Platform](https://img.shields.io/badge/platform-ios%2C%20macOS%2C%20watchOS%2C%20tvOS-lightgrey.svg)](https://github.com/aashishtamsya/)
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](/LICENSE.md)
 
 The App Review Guidelines provide rules and examples across a range of topics, including user interface design, functionality, content, and the use of specific technologies. Ensure your apps comply with these guidelines before submitting them for review.
