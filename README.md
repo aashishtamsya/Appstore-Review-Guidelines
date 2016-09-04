@@ -16,6 +16,7 @@ The App Review Guidelines provide rules and examples across a range of topics, i
 	-	[Terms and Conditions](#terms-and-conditions)
 	-	[Functionality](#functionality)	
 	-	[Metadata](#metadata)
+	-	[Passbook](#passbook)
 -	[Contribution](#contribution)
 -	[Credits](#credits)
 -	[License](#license)
@@ -55,8 +56,8 @@ As a developer of applications for the App Store you are bound by the terms of t
 25.	Apps that display Apps other than your own for purchase or promotion in a manner similar to or confusing with the App Store will be rejected
 
 ### Metadata 
+	>	Name, descriptions, ratings, rankings, etc related reasons for an app's rejection
 
->	Name, descriptions, ratings, rankings, etc related reasons for an app's rejection
 1.	Apps or metadata that mentions the name of any other mobile platform will be rejected
 2.	Apps with placeholder text will be rejected
 3.	Apps with descriptions not relevant to the application content and functionality will be rejected
@@ -69,6 +70,13 @@ As a developer of applications for the App Store you are bound by the terms of t
 10.	Developers who attempt to manipulate or cheat the user reviews or chart ranking in the App Store with fake or paid reviews, or any other inappropriate methods will be removed from the iOS Developer Program
 11.	Apps which recommend that users restart their iOS device prior to installation or launch may be rejected
 12.	Apps should have all included URLs fully functional when you submit it for review, such as support and privacy policy URLs
+
+### Passbook
+
+1.	Passbook Passes can be used to make or receive payments, transmit offers or offer identification (such as movie tickets, airline tickets, coupons and reward offers). Other uses may result in the rejection of the App and the revocation of Passbook credentials.
+2.	Passes must include valid contact information from the issuer of the pass or the App will be rejected and Passbook credentials may be revoked.
+3.	Passes must be signed by the entity that will be distributing the pass under its own name, trademark, or brand or the App will be rejected and Passbook credentials may be revoked.
+
 
 <!---
 Created by Aashish Tamsya on 01/09/16.
