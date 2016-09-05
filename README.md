@@ -14,6 +14,7 @@ The App Review Guidelines provide rules and examples across a range of topics, i
 
 -	[Review Guidelines](#review-guidelines)
 	-	[Terms and Conditions](#terms-and-conditions)
+	-	[Advertising](#advertising)
 	-	[Functionality](#functionality)	
 	-	[Metadata](#metadata)
 	-	[Passbook](#passbook)
@@ -26,6 +27,12 @@ The App Review Guidelines provide rules and examples across a range of topics, i
 ### Terms and Conditions
 
 As a developer of applications for the App Store you are bound by the terms of the [Program License Agreement (PLA)](https://developer.apple.com/), Human Interface Guidelines (HIG), and any other licenses or contracts between you and Apple. The following rules and examples are intended to assist you in gaining acceptance for your App in the App Store, not to amend or remove provisions from any other agreement.
+
+### Advertising
+
+1.	Apps that artificially increase the number of impressions or click-throughs of ads will be rejected
+2.	Apps that contain empty iAd banners will be rejected
+3.	Apps that are designed predominantly for the display of ads will be rejected
 
 ### Functionality
 
@@ -82,6 +89,7 @@ As a developer of applications for the App Store you are bound by the terms of t
 Created by Aashish Tamsya on 01/09/16.
 Copyright © 2016 Aashish Tamsya. All rights reserved.
 -->
+
 
 
 
