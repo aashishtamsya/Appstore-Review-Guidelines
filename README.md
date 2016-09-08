@@ -16,6 +16,7 @@ The App Review Guidelines provide rules and examples across a range of topics, i
 	-	[Terms and Conditions](#terms-and-conditions)
 	-	[Advertising](#advertising)
 	-	[Functionality](#functionality)	
+	-	[Location](#location)
 	-	[Metadata](#metadata)
 	-	[Passbook](#passbook)
 -	[Contribution](#contribution)
@@ -61,6 +62,13 @@ As a developer of applications for the App Store you are bound by the terms of t
 23.	Apps must follow the iOS Data Storage Guidelines or they will be rejected
 24.	Apps that are offered in Newsstand must comply with schedules 1, 2 and 3 of the Developer Program License Agreement or they will be rejected
 25.	Apps that display Apps other than your own for purchase or promotion in a manner similar to or confusing with the App Store will be rejected
+
+### Location
+
+1.	Apps that do not notify and obtain user consent before collecting, transmitting, or using location data will be rejected
+2.	Apps that use location-based APIs for automatic or autonomous control of vehicles, aircraft, or other devices will be rejected
+3.	Apps that use location-based APIs for dispatch, fleet management, or emergency services will be rejected
+4.	Location data can only be used when directly relevant to the features and services provided by the App to the user or to support approved advertising uses
 
 ### Metadata 
 	>	Name, descriptions, ratings, rankings, etc related reasons for an app's rejection
