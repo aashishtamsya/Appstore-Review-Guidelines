@@ -19,6 +19,7 @@ The App Review Guidelines provide rules and examples across a range of topics, i
 	-	[Location](#location)
 	-	[Metadata](#metadata)
 	-	[Passbook](#passbook)
+	-	[Push Notifications](#push-notifications)
 -	[Contribution](#contribution)
 -	[Credits](#credits)
 -	[License](#license)
@@ -92,6 +93,17 @@ As a developer of applications for the App Store you are bound by the terms of t
 2.	Passes must include valid contact information from the issuer of the pass or the App will be rejected and Passbook credentials may be revoked.
 3.	Passes must be signed by the entity that will be distributing the pass under its own name, trademark, or brand or the App will be rejected and Passbook credentials may be revoked.
 
+### Push Notifications
+
+1.	Apps that transmit viruses, files, computer code, or programs that may harm or disrupt the normal operation of the APN service will be rejected
+2.	Apps that use Push Notifications to send unsolicited messages, or for the purpose of phishing or spamming will be rejected
+3.	Apps cannot charge users for use of Push Notifications
+4.	Apps that send Push Notifications without first obtaining user consent will be rejected
+5.	Apps cannot use Push Notifications to send advertising, promotions, or direct marketing of any kind
+6.	Apps that provide Push Notifications without using the Apple Push Notification (APN) API will be rejected
+7.	Apps that excessively use the network capacity or bandwidth of the APN service or unduly burden a device with Push Notifications will be rejected
+8.	Apps that send sensitive personal or confidential information using Push Notifications will be rejected
+9.	Apps that use the APN service without obtaining a Push Application ID from Apple will be rejected
 
 <!---
 Created by Aashish Tamsya on 01/09/16.
